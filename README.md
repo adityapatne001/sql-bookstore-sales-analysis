@@ -32,6 +32,10 @@ This project analyzes data from an online bookstore using SQL. It involves query
 
 ---
 
+## 🔗 More
+
+This project was completed as part of a certified Power BI course by [Mr. Satish Dhawale – Founder and CEO @ Skill Course].
+
 ## ✅ Concepts Covered
 
 - Relational Database Design  
