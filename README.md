@@ -39,9 +39,3 @@ This project analyzes data from an online bookstore using SQL. It involves query
 - Subqueries and Filtering with `HAVING`  
 - CSV Data Import into SQL  
 - Business logic queries for decision-making
-
----
-
-## 🔗 More
-
-This project was completed as part of a certified SQL course by [Mr. Satish Dhawale – Founder and CEO @ Skill Course].
